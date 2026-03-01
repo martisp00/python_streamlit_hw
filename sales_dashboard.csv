@@ -1,0 +1,201 @@
+order_id,order_date,product_name,category,quantity,unit_price,region,sales_rep,status
+ORD057,2025-01-01,Project Management Tool,Software,5,15.13,Asia Pacific,David Brown,Pending
+ORD144,2025-01-14,Cloud Storage Plan,Software,3,9.21,North America,Frank Miller,Completed
+ORD191,2025-01-15,Laptop Bag,Accessories,6,34.11,North America,Frank Miller,Completed
+ORD024,2025-01-17,Wireless Mouse,Electronics,6,28.36,North America,David Brown,Completed
+ORD046,2025-01-21,Bluetooth Speaker,Electronics,6,38.91,Europe,David Brown,Completed
+ORD043,2025-01-23,Laptop Stand,Electronics,1,47.95,Asia Pacific,Carol Williams,Completed
+ORD060,2025-01-24,Standing Desk Mat,Office,4,37.17,Latin America,Bob Smith,Pending
+ORD145,2025-01-27,Antivirus License,Software,3,37.38,Latin America,Bob Smith,Completed
+ORD010,2025-01-29,Paper Shredder,Office,4,77.18,North America,Frank Miller,Pending
+ORD163,2025-01-29,Whiteboard,Office,1,54.83,Europe,Emma Davis,Completed
+ORD149,2025-02-03,Monitor Stand,Electronics,3,35.75,Asia Pacific,Frank Miller,Pending
+ORD039,2025-02-05,Cloud Storage Plan,Software,4,10.86,Asia Pacific,Emma Davis,Completed
+ORD158,2025-02-05,Filing Cabinet,Office,3,134.08,North America,Bob Smith,Cancelled
+ORD029,2025-02-08,Project Management Tool,Software,8,14.24,North America,Alice Johnson,Cancelled
+ORD118,2025-02-08,Wrist Rest,Accessories,8,16.4,Asia Pacific,Frank Miller,Pending
+ORD166,2025-02-09,Laptop Stand,Electronics,6,40.66,Latin America,Grace Lee,Pending
+ORD007,2025-02-10,Webcam HD,Electronics,4,63.27,North America,Grace Lee,Completed
+ORD082,2025-02-14,Cloud Storage Plan,Software,5,10.65,Latin America,David Brown,Pending
+ORD104,2025-02-16,Wrist Rest,Accessories,8,15.93,Asia Pacific,Grace Lee,Completed
+ORD174,2025-02-16,Antivirus License,Software,10,41.15,Latin America,Henry Wilson,Cancelled
+ORD002,2025-02-17,Laptop Stand,Electronics,4,40.78,Europe,Alice Johnson,Cancelled
+ORD199,2025-02-23,Paper Shredder,Office,10,82.5,Asia Pacific,Carol Williams,Completed
+ORD041,2025-02-24,Desk Lamp,Office,9,27.68,Europe,Emma Davis,Completed
+ORD062,2025-02-24,Paper Shredder,Office,7,82.99,Europe,Carol Williams,Cancelled
+ORD077,2025-02-25,Mechanical Keyboard,Electronics,10,98.35,North America,Emma Davis,Pending
+ORD110,2025-03-02,Ergonomic Chair,Office,3,297.68,Latin America,Emma Davis,Cancelled
+ORD164,2025-03-03,Desk Lamp,Office,1,28.73,Latin America,Grace Lee,Completed
+ORD063,2025-03-04,Laptop Bag,Accessories,8,35.39,Europe,Henry Wilson,Cancelled
+ORD055,2025-03-05,Design Software,Software,5,28.87,Asia Pacific,Grace Lee,Completed
+ORD091,2025-03-06,Bluetooth Speaker,Electronics,8,41.57,North America,Alice Johnson,Completed
+ORD056,2025-03-07,Wrist Rest,Accessories,4,14.38,Latin America,Grace Lee,Completed
+ORD181,2025-03-07,Wrist Rest,Accessories,9,15.86,North America,Grace Lee,Cancelled
+ORD037,2025-03-09,Cloud Storage Plan,Software,5,9.52,Latin America,Frank Miller,Completed
+ORD108,2025-03-09,Webcam HD,Electronics,5,57.2,Latin America,Henry Wilson,Completed
+ORD130,2025-03-09,Laptop Bag,Accessories,2,35.55,Asia Pacific,Frank Miller,Pending
+ORD112,2025-03-11,Filing Cabinet,Office,2,130.2,Asia Pacific,Grace Lee,Completed
+ORD013,2025-03-12,Cloud Storage Plan,Software,9,10.98,Latin America,Bob Smith,Completed
+ORD170,2025-03-16,Cloud Storage Plan,Software,5,9.46,Europe,Carol Williams,Completed
+ORD193,2025-03-18,Wireless Mouse,Electronics,9,28.53,Latin America,Bob Smith,Completed
+ORD138,2025-03-21,Design Software,Software,7,29.5,North America,Henry Wilson,Pending
+ORD096,2025-03-22,Desk Lamp,Office,4,30.95,Europe,Bob Smith,Completed
+ORD008,2025-03-25,Wrist Rest,Accessories,6,15.99,Asia Pacific,David Brown,Completed
+ORD031,2025-03-26,Whiteboard,Office,7,54.01,North America,Grace Lee,Completed
+ORD169,2025-03-28,Cloud Storage Plan,Software,2,9.66,North America,David Brown,Completed
+ORD103,2025-03-31,Bluetooth Speaker,Electronics,8,40.6,Latin America,Emma Davis,Completed
+ORD182,2025-04-03,Antivirus License,Software,4,38.89,Asia Pacific,Henry Wilson,Completed
+ORD092,2025-04-05,Screen Protector,Accessories,1,9.87,Asia Pacific,Henry Wilson,Completed
+ORD107,2025-04-07,Power Bank,Electronics,9,24.56,Asia Pacific,Henry Wilson,Pending
+ORD088,2025-04-09,VPN Subscription,Software,6,11.34,North America,Carol Williams,Completed
+ORD075,2025-04-13,Wireless Mouse,Electronics,1,32.69,Europe,David Brown,Completed
+ORD076,2025-04-22,Wrist Rest,Accessories,8,13.83,Asia Pacific,Frank Miller,Completed
+ORD139,2025-04-22,Antivirus License,Software,8,41.51,Latin America,David Brown,Completed
+ORD165,2025-04-28,Whiteboard,Office,9,50.32,Asia Pacific,Bob Smith,Pending
+ORD035,2025-05-01,USB-C Hub,Electronics,7,51.74,North America,David Brown,Completed
+ORD066,2025-05-01,Laptop Bag,Accessories,5,36.48,Asia Pacific,Frank Miller,Cancelled
+ORD137,2025-05-01,Project Management Tool,Software,9,13.84,Europe,Grace Lee,Pending
+ORD030,2025-05-02,USB-C Hub,Electronics,3,54.25,Latin America,Henry Wilson,Pending
+ORD185,2025-05-02,Cable Organizer,Accessories,8,13.45,Asia Pacific,Henry Wilson,Completed
+ORD194,2025-05-03,Desk Lamp,Office,7,27.72,Latin America,Bob Smith,Completed
+ORD196,2025-05-04,Laptop Bag,Accessories,10,35.79,Latin America,Carol Williams,Completed
+ORD001,2025-05-06,Wireless Mouse,Electronics,4,31.44,Europe,Bob Smith,Cancelled
+ORD009,2025-05-06,Mechanical Keyboard,Electronics,3,90.6,Latin America,Grace Lee,Completed
+ORD012,2025-05-07,Mouse Pad XL,Accessories,9,19.05,Asia Pacific,Grace Lee,Pending
+ORD106,2025-05-10,Power Bank,Electronics,6,22.93,North America,Grace Lee,Cancelled
+ORD198,2025-05-10,Laptop Stand,Electronics,1,49.32,Asia Pacific,Bob Smith,Completed
+ORD052,2025-05-16,Cloud Storage Plan,Software,1,10.15,North America,Grace Lee,Completed
+ORD006,2025-05-31,Laptop Stand,Electronics,10,41.2,Asia Pacific,David Brown,Completed
+ORD183,2025-06-01,Standing Desk Mat,Office,2,37.23,North America,Frank Miller,Completed
+ORD113,2025-06-02,Antivirus License,Software,10,38.25,Latin America,Carol Williams,Pending
+ORD090,2025-06-04,Cloud Storage Plan,Software,1,9.71,Europe,Emma Davis,Completed
+ORD019,2025-06-07,Monitor Stand,Electronics,4,37.64,North America,David Brown,Completed
+ORD157,2025-06-08,Mechanical Keyboard,Electronics,6,85.91,Asia Pacific,Alice Johnson,Completed
+ORD180,2025-06-08,Mechanical Keyboard,Electronics,7,97.49,Europe,Bob Smith,Completed
+ORD109,2025-06-09,Webcam HD,Electronics,9,62.51,North America,Grace Lee,Completed
+ORD083,2025-06-16,Cable Organizer,Accessories,3,11.77,Latin America,David Brown,Completed
+ORD167,2025-06-16,Antivirus License,Software,3,39.23,Latin America,Frank Miller,Completed
+ORD105,2025-06-18,Antivirus License,Software,7,42.85,Latin America,Emma Davis,Pending
+ORD048,2025-06-20,Whiteboard,Office,7,45.24,Europe,Emma Davis,Completed
+ORD073,2025-06-22,Cloud Storage Plan,Software,7,9.9,Asia Pacific,Grace Lee,Completed
+ORD132,2025-06-23,Cable Organizer,Accessories,2,13.63,Latin America,Bob Smith,Completed
+ORD004,2025-06-24,Mechanical Keyboard,Electronics,5,93.56,Europe,David Brown,Completed
+ORD159,2025-06-24,Whiteboard,Office,3,49.19,Asia Pacific,Emma Davis,Completed
+ORD176,2025-06-25,Ergonomic Chair,Office,2,297.02,Europe,Alice Johnson,Completed
+ORD125,2025-06-26,Ergonomic Chair,Office,10,296.49,Asia Pacific,Grace Lee,Completed
+ORD069,2025-06-30,Laptop Stand,Electronics,5,44.78,Latin America,Grace Lee,Cancelled
+ORD005,2025-07-03,USB-C Hub,Electronics,6,48.79,Asia Pacific,Alice Johnson,Pending
+ORD080,2025-07-05,Screen Protector,Accessories,8,9.2,Europe,Grace Lee,Completed
+ORD045,2025-07-09,Filing Cabinet,Office,10,117.93,Europe,Grace Lee,Completed
+ORD153,2025-07-10,USB-C Hub,Electronics,3,49.31,North America,Frank Miller,Completed
+ORD152,2025-07-11,Cable Organizer,Accessories,3,13.42,Latin America,Bob Smith,Completed
+ORD123,2025-07-15,Standing Desk Mat,Office,10,36.62,Europe,Henry Wilson,Completed
+ORD067,2025-07-16,Mechanical Keyboard,Electronics,3,83.71,Europe,Bob Smith,Pending
+ORD126,2025-07-16,Cable Organizer,Accessories,8,12.21,North America,David Brown,Pending
+ORD179,2025-07-17,Antivirus License,Software,5,40.45,Asia Pacific,Carol Williams,Completed
+ORD133,2025-07-23,Paper Shredder,Office,9,83.58,Asia Pacific,Bob Smith,Pending
+ORD101,2025-07-26,Wrist Rest,Accessories,5,14.4,Latin America,Henry Wilson,Completed
+ORD086,2025-07-27,USB-C Hub,Electronics,4,47.93,Asia Pacific,Frank Miller,Pending
+ORD047,2025-07-28,Design Software,Software,10,32.29,Europe,David Brown,Completed
+ORD136,2025-07-29,Wrist Rest,Accessories,2,14.4,Europe,Alice Johnson,Completed
+ORD115,2025-07-30,Filing Cabinet,Office,1,126.95,Asia Pacific,Henry Wilson,Pending
+ORD068,2025-08-01,Cable Organizer,Accessories,1,13.1,Europe,Grace Lee,Pending
+ORD161,2025-08-01,Screen Protector,Accessories,5,10.2,Europe,Bob Smith,Completed
+ORD190,2025-08-01,Cable Organizer,Accessories,1,14.11,Latin America,Frank Miller,Completed
+ORD094,2025-08-02,Webcam HD,Electronics,10,55.41,Europe,Grace Lee,Pending
+ORD187,2025-08-03,Project Management Tool,Software,3,15.0,Europe,Carol Williams,Completed
+ORD154,2025-08-05,Cable Organizer,Accessories,1,13.96,Asia Pacific,Emma Davis,Completed
+ORD148,2025-08-07,Power Bank,Electronics,2,26.73,Latin America,Henry Wilson,Completed
+ORD095,2025-08-08,Cable Organizer,Accessories,5,13.93,North America,Bob Smith,Completed
+ORD122,2025-08-09,Bluetooth Speaker,Electronics,3,38.86,Europe,Grace Lee,Completed
+ORD150,2025-08-09,Project Management Tool,Software,2,15.01,North America,David Brown,Pending
+ORD070,2025-08-12,Whiteboard,Office,8,47.18,North America,Grace Lee,Completed
+ORD022,2025-08-13,Wrist Rest,Accessories,9,15.44,Latin America,Bob Smith,Completed
+ORD117,2025-08-14,Antivirus License,Software,2,42.98,Latin America,Alice Johnson,Completed
+ORD016,2025-08-21,Bluetooth Speaker,Electronics,1,39.47,Asia Pacific,Carol Williams,Cancelled
+ORD098,2025-08-21,VPN Subscription,Software,2,12.48,Europe,Emma Davis,Completed
+ORD134,2025-08-21,Bluetooth Speaker,Electronics,6,40.28,Asia Pacific,Grace Lee,Completed
+ORD141,2025-08-21,Ergonomic Chair,Office,2,326.93,Europe,Alice Johnson,Completed
+ORD151,2025-08-21,Mouse Pad XL,Accessories,7,19.65,Latin America,Bob Smith,Completed
+ORD124,2025-08-24,Whiteboard,Office,5,51.37,North America,Henry Wilson,Completed
+ORD072,2025-08-25,Laptop Stand,Electronics,3,41.71,North America,Emma Davis,Pending
+ORD173,2025-08-25,Design Software,Software,8,27.44,North America,Alice Johnson,Completed
+ORD071,2025-08-28,Wrist Rest,Accessories,3,13.99,North America,Grace Lee,Completed
+ORD049,2025-08-29,Laptop Stand,Electronics,4,48.34,Europe,Henry Wilson,Completed
+ORD172,2025-08-29,Cloud Storage Plan,Software,8,9.87,Asia Pacific,Emma Davis,Completed
+ORD186,2025-08-29,Desk Lamp,Office,4,32.78,Asia Pacific,Henry Wilson,Pending
+ORD111,2025-08-30,Project Management Tool,Software,4,15.99,Latin America,Carol Williams,Pending
+ORD192,2025-08-30,Ergonomic Chair,Office,3,287.2,Latin America,Henry Wilson,Completed
+ORD155,2025-09-04,Webcam HD,Electronics,4,55.85,North America,Frank Miller,Cancelled
+ORD128,2025-09-12,Wireless Mouse,Electronics,5,32.45,Europe,Frank Miller,Completed
+ORD064,2025-09-16,Project Management Tool,Software,7,15.33,Latin America,Carol Williams,Pending
+ORD017,2025-09-17,Bluetooth Speaker,Electronics,10,42.72,Europe,Carol Williams,Completed
+ORD051,2025-09-18,Bluetooth Speaker,Electronics,7,38.8,Asia Pacific,Alice Johnson,Completed
+ORD053,2025-09-19,Project Management Tool,Software,2,15.31,Latin America,David Brown,Completed
+ORD146,2025-09-20,Screen Protector,Accessories,10,10.55,North America,Henry Wilson,Cancelled
+ORD189,2025-09-20,Desk Lamp,Office,3,29.69,Latin America,Bob Smith,Completed
+ORD018,2025-09-29,Filing Cabinet,Office,1,141.78,Asia Pacific,Henry Wilson,Completed
+ORD034,2025-09-29,Headphone Stand,Accessories,3,27.09,North America,Bob Smith,Completed
+ORD020,2025-09-30,Power Bank,Electronics,3,26.57,Europe,Henry Wilson,Cancelled
+ORD119,2025-10-01,Monitor Stand,Electronics,7,37.46,Asia Pacific,Henry Wilson,Cancelled
+ORD028,2025-10-02,Webcam HD,Electronics,8,56.29,Europe,Grace Lee,Completed
+ORD054,2025-10-03,Laptop Stand,Electronics,4,40.51,Asia Pacific,Grace Lee,Completed
+ORD081,2025-10-03,Design Software,Software,8,31.84,Latin America,Grace Lee,Completed
+ORD074,2025-10-04,Power Bank,Electronics,1,22.59,Asia Pacific,David Brown,Completed
+ORD131,2025-10-04,Standing Desk Mat,Office,6,37.05,Asia Pacific,Carol Williams,Completed
+ORD033,2025-10-05,Ergonomic Chair,Office,1,304.74,Asia Pacific,Alice Johnson,Completed
+ORD114,2025-10-06,Cable Organizer,Accessories,7,12.55,Latin America,Frank Miller,Completed
+ORD197,2025-10-06,Antivirus License,Software,9,43.62,North America,Grace Lee,Pending
+ORD003,2025-10-07,Paper Shredder,Office,7,82.39,Europe,Henry Wilson,Completed
+ORD087,2025-10-09,Project Management Tool,Software,6,16.48,Asia Pacific,Henry Wilson,Completed
+ORD015,2025-10-11,Headphone Stand,Accessories,1,23.75,North America,Emma Davis,Completed
+ORD188,2025-10-11,Power Bank,Electronics,2,26.86,North America,Emma Davis,Completed
+ORD032,2025-10-12,Cable Organizer,Accessories,8,12.79,Europe,David Brown,Completed
+ORD085,2025-10-12,Paper Shredder,Office,4,78.49,Latin America,Henry Wilson,Pending
+ORD038,2025-10-16,Power Bank,Electronics,2,25.6,North America,David Brown,Cancelled
+ORD036,2025-10-17,Laptop Stand,Electronics,9,46.41,Asia Pacific,Emma Davis,Completed
+ORD142,2025-10-17,Cloud Storage Plan,Software,4,10.97,North America,David Brown,Completed
+ORD011,2025-10-18,Antivirus License,Software,6,37.68,Europe,Henry Wilson,Pending
+ORD025,2025-10-20,Mouse Pad XL,Accessories,10,20.15,Latin America,David Brown,Pending
+ORD175,2025-10-20,Power Bank,Electronics,4,27.03,Asia Pacific,Henry Wilson,Cancelled
+ORD156,2025-10-21,Antivirus License,Software,4,42.09,Latin America,Alice Johnson,Completed
+ORD093,2025-10-23,Laptop Stand,Electronics,1,44.92,Europe,Carol Williams,Completed
+ORD023,2025-10-29,Ergonomic Chair,Office,9,290.28,Europe,David Brown,Completed
+ORD089,2025-10-29,Paper Shredder,Office,9,79.74,Asia Pacific,Bob Smith,Completed
+ORD168,2025-10-29,Laptop Bag,Accessories,7,33.19,North America,Grace Lee,Completed
+ORD078,2025-10-31,Wrist Rest,Accessories,4,14.09,North America,Emma Davis,Completed
+ORD097,2025-11-01,Laptop Stand,Electronics,8,44.54,Asia Pacific,Alice Johnson,Completed
+ORD100,2025-11-01,Mechanical Keyboard,Electronics,10,95.26,Asia Pacific,Henry Wilson,Completed
+ORD084,2025-11-02,VPN Subscription,Software,5,11.46,North America,David Brown,Completed
+ORD143,2025-11-02,Desk Lamp,Office,1,31.64,Asia Pacific,Carol Williams,Completed
+ORD102,2025-11-06,Laptop Stand,Electronics,5,47.1,North America,Bob Smith,Completed
+ORD021,2025-11-07,Desk Lamp,Office,7,30.16,Europe,David Brown,Completed
+ORD177,2025-11-09,Screen Protector,Accessories,3,10.04,Asia Pacific,Frank Miller,Completed
+ORD040,2025-11-10,Headphone Stand,Accessories,9,26.01,North America,Emma Davis,Completed
+ORD160,2025-11-13,Wireless Mouse,Electronics,1,27.92,North America,Emma Davis,Pending
+ORD059,2025-11-14,Design Software,Software,6,30.97,North America,David Brown,Completed
+ORD135,2025-11-14,Webcam HD,Electronics,9,59.65,Asia Pacific,David Brown,Completed
+ORD171,2025-11-18,Mechanical Keyboard,Electronics,8,98.11,Latin America,Henry Wilson,Completed
+ORD195,2025-11-20,Headphone Stand,Accessories,9,25.17,Europe,Carol Williams,Completed
+ORD065,2025-11-23,Cable Organizer,Accessories,5,13.64,Latin America,David Brown,Completed
+ORD200,2025-11-26,Design Software,Software,3,29.02,Latin America,Henry Wilson,Completed
+ORD140,2025-11-27,Monitor Stand,Electronics,6,35.3,North America,Grace Lee,Completed
+ORD099,2025-11-28,Laptop Bag,Accessories,3,35.3,Asia Pacific,Carol Williams,Completed
+ORD116,2025-11-30,Wrist Rest,Accessories,3,15.87,Latin America,Alice Johnson,Completed
+ORD027,2025-12-01,Wrist Rest,Accessories,2,13.65,North America,Grace Lee,Completed
+ORD026,2025-12-04,Mouse Pad XL,Accessories,7,18.37,Asia Pacific,Grace Lee,Pending
+ORD050,2025-12-04,Cloud Storage Plan,Software,4,9.44,Latin America,Frank Miller,Completed
+ORD129,2025-12-04,Filing Cabinet,Office,3,123.51,North America,Alice Johnson,Completed
+ORD147,2025-12-04,Filing Cabinet,Office,9,118.12,Asia Pacific,Henry Wilson,Completed
+ORD079,2025-12-05,Monitor Stand,Electronics,6,35.22,North America,Frank Miller,Completed
+ORD058,2025-12-12,Project Management Tool,Software,4,14.82,Latin America,Carol Williams,Completed
+ORD162,2025-12-14,Laptop Bag,Accessories,10,33.47,Latin America,Emma Davis,Completed
+ORD178,2025-12-14,Screen Protector,Accessories,10,10.54,North America,Frank Miller,Completed
+ORD014,2025-12-15,Mechanical Keyboard,Electronics,7,92.28,North America,Grace Lee,Pending
+ORD120,2025-12-17,USB-C Hub,Electronics,5,47.34,Europe,Bob Smith,Pending
+ORD042,2025-12-18,Paper Shredder,Office,5,77.48,Latin America,Emma Davis,Completed
+ORD184,2025-12-21,Mouse Pad XL,Accessories,10,18.64,Europe,Henry Wilson,Completed
+ORD121,2025-12-22,USB-C Hub,Electronics,5,49.43,North America,Alice Johnson,Completed
+ORD061,2025-12-23,Wrist Rest,Accessories,7,15.22,Latin America,Grace Lee,Completed
+ORD127,2025-12-25,Design Software,Software,5,28.77,North America,Grace Lee,Completed
+ORD044,2025-12-28,Paper Shredder,Office,7,79.06,North America,Bob Smith,Completed
